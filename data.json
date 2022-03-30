@@ -1,0 +1,126 @@
+{
+    "cart":[
+        {
+            "image":"images/asus.jpg",
+            "name":"Asus Laptop",
+            "category":"Laptop",
+            "price":189,
+            "price_unit":"dollar",
+            "detail":"Laptop asus etc",
+            "isAvailable":true,
+            "isEligible":true
+        },
+        {
+            "image":"images/excalibur.jpg",
+            "name":"Excalibur Laptop",
+            "category":"Laptop",
+            "price":200,
+            "price_unit":"dollar",
+            "detail":"Laptop excalibur etc",
+            "isAvailable":true,
+            "isEligible":true
+        },
+        {
+            "image":"images/gtx-1660.jpg",
+            "name":"Msi Graphic Card",
+            "category":"Graphic Card",
+            "price":800,
+            "price_unit":"dollar",
+            "detail":"Msi Graphic Card etc",
+            "isAvailable":true,
+            "isEligible":true
+        },
+        {
+            "image":"images/rx-6600.jpg",
+            "name":"Gigabyte Graphic Card",
+            "category":"Graphic Card",
+            "price":800,
+            "price_unit":"dollar",
+            "detail":"Gigabyte Graphic Card etc",
+            "isAvailable":true,
+            "isEligible":true
+        },
+        {
+            "image":"images/rtx3090.jpg",
+            "name":"Asus ROG Graphic Card",
+            "category":"Graphic Card",
+            "price":800,
+            "price_unit":"dollar",
+            "detail":"Asus ROG Card etc",
+            "isAvailable":true,
+            "isEligible":true
+        },
+        {
+            "image":"images/mac.jpg",
+            "name":"Apple Macbook",
+            "category":"Laptop",
+            "price":800,
+            "price_unit":"dollar",
+            "detail":"Apple Macbook laptop etc",
+            "isAvailable":true,
+            "isEligible":true
+        },
+        {
+            "image":"images/huawei.jpg",
+            "name":"Huawei",
+            "category":"Laptop",
+            "price":800,
+            "price_unit":"dollar",
+            "detail":"Huawei laptop etc",
+            "isAvailable":true,
+            "isEligible":true
+        }, 
+        {
+            "image":"images/philips.jpg",
+            "name":"Philips Screen 21 inch",
+            "category":"Screen",
+            "price":800,
+            "price_unit":"dollar",
+            "detail":"Philips Screen etc",
+            "isAvailable":true,
+            "isEligible":true
+        },
+        {
+            "image":"images/quadro-t100.jpg",
+            "name":"Quadro T-100",
+            "category":"Graphic Card",
+            "price":800,
+            "price_unit":"dollar",
+            "detail":"Quadro T-100 Graphic Card etc",
+            "isAvailable":true,
+            "isEligible":true
+        },
+        {
+            "image":"images/quadro-t400.jpg",
+            "name":"Quadro T-400",
+            "category":"Graphic Card",
+            "price":800,
+            "price_unit":"dollar",
+            "detail":"Quadro T-400 Graphic Card etc",
+            "isAvailable":true,
+            "isEligible":true
+        },   
+        {
+            "image":"images/viewsonic.jpg",
+            "name":"Viewsonic",
+            "category":"Screen",
+            "price":800,
+            "price_unit":"dollar",
+            "detail":"Viewsonic screen 22 inch etc",
+            "isAvailable":true,
+            "isEligible":true
+        }                            
+    ],
+	"saved":[
+        {
+            "image":"images/quadro-t400.jpg",
+            "name":"Quadro T-400",
+            "category":"Graphic Card",
+            "price":800,
+            "price_unit":"dollar",
+            "detail":"Quadro T-400 Graphic Card etc",
+            "isAvailable":true,
+            "isEligible":true
+        }
+    ]
+}
